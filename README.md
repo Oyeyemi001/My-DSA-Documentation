@@ -20,7 +20,7 @@ The primary source of Data used here is Data Sale.csv and this is an open source
      2. Data Munching
    
 - SQL Server (For Querying and Analysis)
-- Power BI (For creating a report)
+- Power BI (For creating a report) [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 - Ms Power Point (For Presentation)
 
 ### Data Cleaning and Preparation
